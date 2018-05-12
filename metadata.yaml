@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27084#Noites-de-insomnia-offerecidas-a-quem-n-o-p-de-dormir.-N-5--de-12-
 gutenberg_bookshelf: PT Periódicos
 gutenberg_issued: '2008-10-29'
 gutenberg_type: Text
